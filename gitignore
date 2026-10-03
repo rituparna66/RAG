@@ -1,0 +1,4 @@
+*.index
+*.json
+*.pdf
+__pycache__/
